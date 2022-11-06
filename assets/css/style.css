@@ -231,8 +231,8 @@ html {
     padding: 70px 20px;
     overflow: auto;
     overscroll-behavior: contain;
-    /* transform: translateX(100%);
-    visibility: hidden; */
+    transform: translateX(100%);
+    visibility: hidden;
     transition: .5s cubic-bezier(1, 0, 0.3, 0.7);
     z-index: 10;
  }
